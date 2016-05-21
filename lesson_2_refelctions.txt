@@ -1,0 +1,8 @@
+--What happens when you initialize a repository? Why do you need to do it?
+it creates an empty repository and a meta data file .git.we want to group 
+related files and put them inside of the same repository
+--How is the staging area different from the working directory and the 
+repository? What value do you think it offers?
+it is helpful to commit all the files at the same time. since it is better
+to have a logical change for every add we use one add command for every change
+but in commit we commit all of them at the same time.
