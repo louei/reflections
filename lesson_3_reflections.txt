@@ -6,3 +6,9 @@ stay up-to-date with your remote repository?
 Since other people are also working on the files you want to make sure before any pull
 you have the correct one in your repository unless you have to pull request too many
 times.
+--Describe the differences between forks, clones, and branches. When would you use one instead of another?
+forks clones a repository from another github account to my github account
+clone clones a remote repository in github to a local machine or a directroy in local machine
+to the same machine
+we use branch to keep a file and add our changes to it but let other people to have the original file
+
