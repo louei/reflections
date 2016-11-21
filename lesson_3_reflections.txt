@@ -14,4 +14,5 @@ we use branch to keep a file and add our changes to it but let other people to h
 --What is the benefit of having a copy of the last known state of the remote stored locally?
 if we keep the last state locally then by a new commit we only need to do a push or pull without
 need to fetch+merge.
-
+--How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+by sending files.following the changes are difficult but it is more time consuming
